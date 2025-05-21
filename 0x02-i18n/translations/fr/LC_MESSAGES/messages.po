@@ -3,11 +3,11 @@
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
 #
-msgid "home_title"
-msgstr "Bienvenue chez ALX"
+msgid "logged_in_as"
+msgstr "Vous êtes connecté en tant que %(username)s."
 
-msgid "home_header"
-msgstr "Bonjour monde!"
+msgid "not_logged_in"
+msgstr "Vous n'êtes pas connecté."
 
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
